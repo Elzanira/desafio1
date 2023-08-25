@@ -1,0 +1,17 @@
+#imagem{
+    margin-left: 10%;
+}
+#primeiro{
+    color: rgb(18, 193, 224);
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(1, 32, 1);
+    background-size: cover;
+    color: darkcyan;
+}
+.container{
+    width: 80%;
+    margin:auto;
+}
+  
